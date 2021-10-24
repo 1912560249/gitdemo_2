@@ -13,6 +13,6 @@ public class Main {
         }
         System.out.println("我是中国人");
         System.out.println("我是中国人2");
-
+        System.out.println("我是中国人3");
     }
 }
