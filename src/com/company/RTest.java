@@ -6,4 +6,5 @@ public class RTest {
     private String c;
     private String d;
     private String f;//gggggggg
+    private String c;//ooooooooo
 }
