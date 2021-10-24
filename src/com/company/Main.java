@@ -7,5 +7,6 @@ public class Main {
         //1第一步
         //2第二步
         //3第三步
+        System.out.println("nice to metting you!");
     }
 }
