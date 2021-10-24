@@ -3,6 +3,6 @@ package com.company;
 public class Main {
 
     public static void main(String[] args) {
-        System.out.println("nice to metting you!");//第一步  我想制作bug
+        System.out.println("nice to metting you!");//换一种方法测试
     }
 }
